@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
   std::string input;
   std::cin >> cols;
 
-  while(cols != 0)
+  while (cols != 0)
   {
     std::cin >> input;
 
